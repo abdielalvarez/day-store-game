@@ -1,0 +1,13 @@
+@import 'variables';
+@import 'base/reset';
+@import 'base/typography';
+@import 'components/startgame';
+@import 'components/ButtonModule/button';
+@import 'components/ButtonModule/multiplebutton';
+@import 'components/ChoiceModule/choices';
+@import 'components/ChoiceModule/choice';
+@import 'components/text';
+@import 'layout/wrapper';
+@import 'pages/home';
+@import 'pages/question';
+@import 'pages/thankyoupage';
